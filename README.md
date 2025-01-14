@@ -13,11 +13,9 @@
 - [#233](https://github.com/daytonaio/docs/pull/233): docs: add sdk section to readme (merged at: 2025-01-13T08:49:25Z)
 - [#234](https://github.com/daytonaio/docs/pull/234): docs: add api keys section (merged at: 2025-01-13T16:13:01Z)
 - [#214](https://github.com/daytonaio/docs/pull/214): docs: add architecture diagram (merged at: 2025-01-13T16:51:04Z)
-
-### Open Pull Requests
-
-- [#226](https://github.com/daytonaio/docs/pull/226): Update workspace-management.mdx (created at: 2025-01-07T19:37:55Z)
-- [#227](https://github.com/daytonaio/docs/pull/227): docs: refactor sdk code snippets & content (created at: 2025-01-08T21:32:18Z)
+- [#205](https://github.com/daytonaio/docs/pull/205): docs: add workspace toolbox (merged at: 2025-01-14T07:44:16Z)
+- [#227](https://github.com/daytonaio/docs/pull/227): docs: refactor sdk code snippets & content (merged at: 2025-01-14T07:47:26Z)
+- [#203](https://github.com/daytonaio/docs/pull/203): chore(deps): Bump nanoid from 3.3.7 to 3.3.8 (merged at: 2025-01-14T07:51:57Z)
 
 ## 2024-12
 
@@ -30,8 +28,6 @@
 
 ### Open Pull Requests
 
-- [#203](https://github.com/daytonaio/docs/pull/203): chore(deps): Bump nanoid from 3.3.7 to 3.3.8 (created at: 2024-12-13T14:53:57Z)
-- [#205](https://github.com/daytonaio/docs/pull/205): docs: add workspace toolbox (created at: 2024-12-15T00:00:53Z)
 - [#207](https://github.com/daytonaio/docs/pull/207): docs: refactor workspaces, projects, and targets (created at: 2024-12-17T00:25:33Z)
 
 ## 2024-11
