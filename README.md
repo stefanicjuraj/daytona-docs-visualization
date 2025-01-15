@@ -2,7 +2,7 @@
 
 ## 2025-01
 
-### Merged Pull Requests
+### OSS Merged Pull Requests
 
 - [#217](https://github.com/daytonaio/docs/pull/217): docs: add wsl2 ssh client troubleshooting setup (merged at: 2025-01-07T07:49:23Z)
 - [#216](https://github.com/daytonaio/docs/pull/216): docs: add azure provider service principal note (merged at: 2025-01-07T07:50:47Z)
@@ -19,20 +19,29 @@
 
 ## 2024-12
 
-### Merged Pull Requests
+### OSS Merged Pull Requests
 
 - [#200](https://github.com/daytonaio/docs/pull/200): docs: add gitee provider (merged at: 2024-12-06T14:10:19Z)
 - [#209](https://github.com/daytonaio/docs/pull/209): docs: modify installation section side menu (merged at: 2024-12-19T09:42:35Z)
 - [#210](https://github.com/daytonaio/docs/pull/210): feat: add search website index (merged at: 2024-12-19T09:42:50Z)
 - [#212](https://github.com/daytonaio/docs/pull/212): chore(deps): Bump astro from 4.16.1 to 4.16.18 (merged at: 2024-12-19T16:11:22Z)
 
-### Open Pull Requests
+### OSS Open Pull Requests
 
 - [#207](https://github.com/daytonaio/docs/pull/207): docs: refactor workspaces, projects, and targets (created at: 2024-12-17T00:25:33Z)
 
+### Enterprise Merged Pull Requests
+
+- [#201](https://github.com/daytonaio/enterprise-docs/pull/201): docs: add workspaces git branch option (merged at: 2024-12-09T22:44:56Z)
+
+### Enterprise Open Pull Requests
+
+- [#203](https://github.com/daytonaio/enterprise-docs/pull/203): chore(deps): bump nanoid from 3.3.7 to 3.3.8 (created at: 2024-12-14T10:13:02Z)
+- [#205](https://github.com/daytonaio/enterprise-docs/pull/205): chore(deps): bump astro from 4.4.6 to 4.16.18 (created at: 2024-12-19T15:59:06Z)
+
 ## 2024-11
 
-### Merged Pull Requests
+### OSS Merged Pull Requests
 
 - [#179](https://github.com/daytonaio/docs/pull/179): docs: add gogs git provider (merged at: 2024-11-04T06:28:49Z)
 - [#186](https://github.com/daytonaio/docs/pull/186): docs: tabbify installation section (merged at: 2024-11-07T08:05:53Z)
@@ -45,9 +54,23 @@
 - [#198](https://github.com/daytonaio/docs/pull/198): feat: search update (index automation & blog) (merged at: 2024-11-25T11:36:01Z)
 - [#199](https://github.com/daytonaio/docs/pull/199): feat: add update search to build script (merged at: 2024-11-29T15:41:01Z)
 
+### Enterprise Merged Pull Requests
+
+- [#179](https://github.com/daytonaio/enterprise-docs/pull/179): docs: add offerings availability label (merged at: 2024-11-06T10:26:57Z)
+- [#186](https://github.com/daytonaio/enterprise-docs/pull/186): docs: add team creation & apply default quota to personal teams only (merged at: 2024-11-06T10:30:35Z)
+- [#196](https://github.com/daytonaio/enterprise-docs/pull/196): docs: update sorting by usage multiplier (merged at: 2024-11-06T13:37:14Z)
+- [#195](https://github.com/daytonaio/enterprise-docs/pull/195): docs: add quota total workspaces (merged at: 2024-11-07T13:52:38Z)
+- [#197](https://github.com/daytonaio/enterprise-docs/pull/197): docs: add workspace sharing policy & ssh access token (merged at: 2024-11-07T13:52:52Z)
+- [#185](https://github.com/daytonaio/enterprise-docs/pull/185): docs: add device activity (merged at: 2024-11-07T13:53:41Z)
+- [#198](https://github.com/daytonaio/enterprise-docs/pull/198): docs: add authentication to user settings (merged at: 2024-11-20T09:06:04Z)
+
+### Enterprise Open Pull Requests
+
+- [#199](https://github.com/daytonaio/enterprise-docs/pull/199): chore(deps): bump cross-spawn from 7.0.3 to 7.0.6 (created at: 2024-11-21T00:53:42Z)
+
 ## 2024-10
 
-### Merged Pull Requests
+### OSS Merged Pull Requests
 
 - [#160](https://github.com/daytonaio/docs/pull/160): fix: remove post start commands description (merged at: 2024-10-02T07:58:53Z)
 - [#159](https://github.com/daytonaio/docs/pull/159): docs: add workspace multi-projects (merged at: 2024-10-02T09:37:54Z)
@@ -66,9 +89,45 @@
 - [#184](https://github.com/daytonaio/docs/pull/184): feat: add troubleshooting section and connectivity entry (merged at: 2024-10-25T12:37:31Z)
 - [#181](https://github.com/daytonaio/docs/pull/181): docs: add offerings availability label (merged at: 2024-10-28T08:46:43Z)
 
+### Enterprise Merged Pull Requests
+
+- [#146](https://github.com/daytonaio/enterprise-docs/pull/146): docs: fix typo (merged at: 2024-10-01T07:49:37Z)
+- [#120](https://github.com/daytonaio/enterprise-docs/pull/120): docs: add workspace samples entry (merged at: 2024-10-01T08:00:42Z)
+- [#133](https://github.com/daytonaio/enterprise-docs/pull/133): fix: light theme flickering (merged at: 2024-10-01T20:16:34Z)
+- [#138](https://github.com/daytonaio/enterprise-docs/pull/138): docs: add workspace classes section (merged at: 2024-10-01T20:19:03Z)
+- [#118](https://github.com/daytonaio/enterprise-docs/pull/118): Bump micromatch from 4.0.5 to 4.0.8 (merged at: 2024-10-02T11:00:13Z)
+- [#121](https://github.com/daytonaio/enterprise-docs/pull/121): Bump @pagefind/default-ui from 1.0.4 to 1.1.1 (merged at: 2024-10-02T11:00:28Z)
+- [#122](https://github.com/daytonaio/enterprise-docs/pull/122): Bump pagefind from 1.0.4 to 1.1.1 (merged at: 2024-10-02T11:00:49Z)
+- [#132](https://github.com/daytonaio/enterprise-docs/pull/132): Bump dset from 3.1.3 to 3.1.4 (merged at: 2024-10-02T11:01:19Z)
+- [#140](https://github.com/daytonaio/enterprise-docs/pull/140): Bump vite from 5.1.7 to 5.1.8 (merged at: 2024-10-02T11:01:39Z)
+- [#141](https://github.com/daytonaio/enterprise-docs/pull/141): Bump express from 4.19.2 to 4.20.0 (merged at: 2024-10-02T11:02:01Z)
+- [#142](https://github.com/daytonaio/enterprise-docs/pull/142): Bump rollup from 4.9.1 to 4.22.4 (merged at: 2024-10-02T11:02:20Z)
+- [#148](https://github.com/daytonaio/enterprise-docs/pull/148): docs: add settings section (merged at: 2024-10-02T16:19:10Z)
+- [#115](https://github.com/daytonaio/enterprise-docs/pull/115): docs: add telemetry section (merged at: 2024-10-02T16:21:42Z)
+- [#110](https://github.com/daytonaio/enterprise-docs/pull/110): docs: port user types (roles) from cluster section to administration (merged at: 2024-10-02T21:00:56Z)
+- [#153](https://github.com/daytonaio/enterprise-docs/pull/153): docs: workspace naming (merged at: 2024-10-07T11:18:50Z)
+- [#154](https://github.com/daytonaio/enterprise-docs/pull/154): docs: workspace class usage multiplier (merged at: 2024-10-07T11:20:08Z)
+- [#156](https://github.com/daytonaio/enterprise-docs/pull/156): docs: add cursor ide (merged at: 2024-10-07T11:46:21Z)
+- [#159](https://github.com/daytonaio/enterprise-docs/pull/159): docs: add default workspace class (merged at: 2024-10-07T11:54:00Z)
+- [#136](https://github.com/daytonaio/enterprise-docs/pull/136): docs: update samples (merged at: 2024-10-08T09:16:18Z)
+- [#160](https://github.com/daytonaio/enterprise-docs/pull/160): docs: update git providers (merged at: 2024-10-08T09:40:16Z)
+- [#155](https://github.com/daytonaio/enterprise-docs/pull/155): docs: add quotas (merged at: 2024-10-08T15:26:22Z)
+- [#172](https://github.com/daytonaio/enterprise-docs/pull/172): docs: modify sidebar sections config order (merged at: 2024-10-14T08:16:18Z)
+- [#167](https://github.com/daytonaio/enterprise-docs/pull/167): docs(style): consistent indentation formatting (merged at: 2024-10-14T08:18:08Z)
+- [#175](https://github.com/daytonaio/enterprise-docs/pull/175): docs: modify about section (merged at: 2024-10-23T16:24:44Z)
+- [#182](https://github.com/daytonaio/enterprise-docs/pull/182): docs: add workspace classes display order & edit (merged at: 2024-10-30T12:16:00Z)
+- [#176](https://github.com/daytonaio/enterprise-docs/pull/176): docs: update getting-started workspaces (merged at: 2024-10-30T12:17:28Z)
+- [#157](https://github.com/daytonaio/enterprise-docs/pull/157): docs: add identity providers (admin) & remove identity providers (install) (merged at: 2024-10-30T12:37:03Z)
+
+### Enterprise Open Pull Requests
+
+- [#158](https://github.com/daytonaio/enterprise-docs/pull/158): docs: add secrets management (vault & doppler) (created at: 2024-10-05T09:57:46Z)
+- [#166](https://github.com/daytonaio/enterprise-docs/pull/166): docs: add subscription section (created at: 2024-10-08T16:03:39Z)
+- [#169](https://github.com/daytonaio/enterprise-docs/pull/169): docs: add ai coding-assistant section (created at: 2024-10-11T14:55:20Z)
+
 ## 2024-09
 
-### Merged Pull Requests
+### OSS Merged Pull Requests
 
 - [#128](https://github.com/daytonaio/docs/pull/128): docs: consistent style indentation formatting (merged at: 2024-09-03T07:49:30Z)
 - [#141](https://github.com/daytonaio/docs/pull/141): docs: add docker local & remote server requirements (merged at: 2024-09-06T11:12:37Z)
@@ -90,9 +149,19 @@
 - [#156](https://github.com/daytonaio/docs/pull/156): fix: remove hardcoded directory in devcontainer.json file (merged at: 2024-09-23T08:36:45Z)
 - [#157](https://github.com/daytonaio/docs/pull/157): chore(deps): Bump rollup from 4.17.2 to 4.22.4 (merged at: 2024-09-24T15:28:12Z)
 
+### Enterprise Merged Pull Requests
+
+- [#126](https://github.com/daytonaio/enterprise-docs/pull/126): docs: modify jetbrains gateway plugin section (merged at: 2024-09-11T10:17:24Z)
+- [#112](https://github.com/daytonaio/enterprise-docs/pull/112): docs: add workspace classes description (merged at: 2024-09-30T11:32:55Z)
+- [#114](https://github.com/daytonaio/enterprise-docs/pull/114): docs: add workspaces ssh & pin sections (merged at: 2024-09-30T11:46:26Z)
+- [#130](https://github.com/daytonaio/enterprise-docs/pull/130): docs: update readme (merged at: 2024-09-30T12:09:15Z)
+- [#131](https://github.com/daytonaio/enterprise-docs/pull/131): docs: backstage plugins section (merged at: 2024-09-30T12:12:24Z)
+- [#137](https://github.com/daytonaio/enterprise-docs/pull/137): docs: add license section (merged at: 2024-09-30T12:51:16Z)
+- [#113](https://github.com/daytonaio/enterprise-docs/pull/113): docs: update workspace create flow (merged at: 2024-09-30T15:32:07Z)
+
 ## 2024-08
 
-### Merged Pull Requests
+### OSS Merged Pull Requests
 
 - [#96](https://github.com/daytonaio/docs/pull/96): docs: workspaces section textual and visual improvements (merged at: 2024-08-06T07:19:01Z)
 - [#104](https://github.com/daytonaio/docs/pull/104): docs: telemetry section textual and visual improvements (merged at: 2024-08-07T07:15:45Z)
@@ -117,9 +186,21 @@
 - [#125](https://github.com/daytonaio/docs/pull/125): docs: add prebuilds (merged at: 2024-08-30T16:08:07Z)
 - [#126](https://github.com/daytonaio/docs/pull/126): docs: fix cli reference hyperlink (merged at: 2024-08-30T16:11:22Z)
 
+### Enterprise Merged Pull Requests
+
+- [#88](https://github.com/daytonaio/enterprise-docs/pull/88): chore: refactor dev setup and README.md (merged at: 2024-08-14T09:08:52Z)
+- [#104](https://github.com/daytonaio/enterprise-docs/pull/104): docs: fix footer support hyperlink (merged at: 2024-08-23T12:11:33Z)
+- [#108](https://github.com/daytonaio/enterprise-docs/pull/108): docs: modify cli command syntax render (merged at: 2024-08-23T13:56:30Z)
+- [#109](https://github.com/daytonaio/enterprise-docs/pull/109): docs: remove (comment-out) nav buttons (merged at: 2024-08-23T13:56:56Z)
+- [#107](https://github.com/daytonaio/enterprise-docs/pull/107): docs: initial oss docs porting improvements & additions (merged at: 2024-08-23T13:57:29Z)
+- [#100](https://github.com/daytonaio/enterprise-docs/pull/100): Hide changelog link in the footer (merged at: 2024-08-23T13:57:55Z)
+- [#89](https://github.com/daytonaio/enterprise-docs/pull/89): Bump vite from 5.1.4 to 5.1.7 (merged at: 2024-08-23T13:58:57Z)
+- [#83](https://github.com/daytonaio/enterprise-docs/pull/83): Bump braces from 3.0.2 to 3.0.3 (merged at: 2024-08-23T13:59:18Z)
+- [#81](https://github.com/daytonaio/enterprise-docs/pull/81): Bump express from 4.18.2 to 4.19.2 (merged at: 2024-08-23T13:59:36Z)
+
 ## 2024-07
 
-### Merged Pull Requests
+### OSS Merged Pull Requests
 
 - [#80](https://github.com/daytonaio/docs/pull/80): 47 implement tabbed interface from figma design (merged at: 2024-07-25T12:02:53Z)
 - [#89](https://github.com/daytonaio/docs/pull/89): docs: update server docs link (merged at: 2024-07-25T12:03:17Z)
@@ -128,7 +209,7 @@
 
 ## 2024-06
 
-### Merged Pull Requests
+### OSS Merged Pull Requests
 
 - [#38](https://github.com/daytonaio/docs/pull/38): docs: add new Server icon (merged at: 2024-06-04T09:45:14Z)
 - [#51](https://github.com/daytonaio/docs/pull/51): Fix company name in footer (merged at: 2024-06-04T13:21:40Z)
@@ -158,7 +239,7 @@
 
 ## 2024-05
 
-### Merged Pull Requests
+### OSS Merged Pull Requests
 
 - [#1](https://github.com/daytonaio/docs/pull/1): Initial docset (merged at: 2024-05-22T14:08:50Z)
 - [#6](https://github.com/daytonaio/docs/pull/6): Remove dead link to Targets documentation on homepage (merged at: 2024-05-23T12:35:03Z)
@@ -174,3 +255,85 @@
 - [#30](https://github.com/daytonaio/docs/pull/30): Fix broken links on home page (merged at: 2024-05-29T14:41:16Z)
 - [#25](https://github.com/daytonaio/docs/pull/25): Update sidebar icons (merged at: 2024-05-30T11:35:14Z)
 - [#36](https://github.com/daytonaio/docs/pull/36): Asides (Admonitions) restyle (merged at: 2024-05-31T14:02:25Z)
+
+## 2024-04
+
+
+### Enterprise Merged Pull Requests
+
+- [#74](https://github.com/daytonaio/enterprise-docs/pull/74): fix: resolve a number of typos in the workspaces docs (merged at: 2024-04-30T09:11:30Z)
+
+## 2024-03
+
+
+### Enterprise Merged Pull Requests
+
+- [#62](https://github.com/daytonaio/enterprise-docs/pull/62): Docs updates 4 (merged at: 2024-03-05T17:20:58Z)
+- [#63](https://github.com/daytonaio/enterprise-docs/pull/63): Docs - Github links update (merged at: 2024-03-05T18:01:41Z)
+- [#64](https://github.com/daytonaio/enterprise-docs/pull/64): Oss launch 1 (merged at: 2024-03-07T12:34:25Z)
+- [#65](https://github.com/daytonaio/enterprise-docs/pull/65): Display stargazers for GitHub repo (merged at: 2024-03-08T10:45:19Z)
+- [#66](https://github.com/daytonaio/enterprise-docs/pull/66): Add missing metadata (merged at: 2024-03-08T15:11:27Z)
+- [#67](https://github.com/daytonaio/enterprise-docs/pull/67): Update logo (merged at: 2024-03-08T19:18:59Z)
+- [#68](https://github.com/daytonaio/enterprise-docs/pull/68): docs: fix incorrect command and add CLI link (merged at: 2024-03-29T09:09:14Z)
+
+## 2024-02
+
+
+### Enterprise Merged Pull Requests
+
+- [#60](https://github.com/daytonaio/enterprise-docs/pull/60): fix: use BASE_URL env var for navigating to docs home (merged at: 2024-02-01T12:18:45Z)
+- [#61](https://github.com/daytonaio/enterprise-docs/pull/61): devcontainer user (merged at: 2024-02-03T21:01:03Z)
+
+## 2024-01
+
+
+### Enterprise Merged Pull Requests
+
+- [#13](https://github.com/daytonaio/enterprise-docs/pull/13): docs: plain documentation (merged at: 2024-01-12T11:54:46Z)
+- [#17](https://github.com/daytonaio/enterprise-docs/pull/17): Docs updates 2 (merged at: 2024-01-12T12:51:51Z)
+- [#19](https://github.com/daytonaio/enterprise-docs/pull/19): Removed Uninstall and Domains (merged at: 2024-01-17T10:45:36Z)
+- [#18](https://github.com/daytonaio/enterprise-docs/pull/18): docs: bitbucket server (merged at: 2024-01-17T10:47:37Z)
+- [#20](https://github.com/daytonaio/enterprise-docs/pull/20): Hidden Admin (merged at: 2024-01-19T04:53:41Z)
+- [#21](https://github.com/daytonaio/enterprise-docs/pull/21): chore: remove unnecessary content (merged at: 2024-01-19T04:57:19Z)
+- [#23](https://github.com/daytonaio/enterprise-docs/pull/23): chore: upgrade sharp version (merged at: 2024-01-19T10:39:38Z)
+- [#22](https://github.com/daytonaio/enterprise-docs/pull/22): docs: github enterprise (merged at: 2024-01-19T13:54:54Z)
+- [#24](https://github.com/daytonaio/enterprise-docs/pull/24): add google as identity provider (merged at: 2024-01-20T14:23:00Z)
+- [#26](https://github.com/daytonaio/enterprise-docs/pull/26): Docs updates 2 (merged at: 2024-01-20T20:45:05Z)
+- [#28](https://github.com/daytonaio/enterprise-docs/pull/28): Docs updates 2 (merged at: 2024-01-22T12:35:45Z)
+- [#30](https://github.com/daytonaio/enterprise-docs/pull/30): Docs updates 2 (#28) (merged at: 2024-01-22T12:52:40Z)
+- [#15](https://github.com/daytonaio/enterprise-docs/pull/15): styles: add keyboard + table surround keyboard (merged at: 2024-01-22T13:04:24Z)
+- [#32](https://github.com/daytonaio/enterprise-docs/pull/32): Add azure active directory as identity provider (merged at: 2024-01-23T15:41:25Z)
+- [#33](https://github.com/daytonaio/enterprise-docs/pull/33): Add azure active directory as identity provider (#32) (merged at: 2024-01-23T15:43:27Z)
+- [#34](https://github.com/daytonaio/enterprise-docs/pull/34): Docs updates 2 (merged at: 2024-01-23T15:44:45Z)
+- [#35](https://github.com/daytonaio/enterprise-docs/pull/35): Fixed scss (merged at: 2024-01-23T15:53:37Z)
+- [#36](https://github.com/daytonaio/enterprise-docs/pull/36): Rewrote Contributing from the start (merged at: 2024-01-24T11:34:25Z)
+- [#37](https://github.com/daytonaio/enterprise-docs/pull/37): IDE Update (merged at: 2024-01-24T11:40:52Z)
+- [#40](https://github.com/daytonaio/enterprise-docs/pull/40): Fixed hosting (merged at: 2024-01-25T07:47:12Z)
+- [#41](https://github.com/daytonaio/enterprise-docs/pull/41): Changed favicon to a new one (merged at: 2024-01-25T07:54:00Z)
+- [#42](https://github.com/daytonaio/enterprise-docs/pull/42): Docs updates 3 (merged at: 2024-01-25T09:48:40Z)
+- [#48](https://github.com/daytonaio/enterprise-docs/pull/48): ClusterUpdate (merged at: 2024-01-26T14:26:17Z)
+- [#50](https://github.com/daytonaio/enterprise-docs/pull/50): docs/account: initial docset (merged at: 2024-01-29T18:55:37Z)
+- [#53](https://github.com/daytonaio/enterprise-docs/pull/53): titles changed (merged at: 2024-01-29T19:04:10Z)
+- [#54](https://github.com/daytonaio/enterprise-docs/pull/54): sync (merged at: 2024-01-29T19:05:15Z)
+- [#55](https://github.com/daytonaio/enterprise-docs/pull/55): sync (#54) (merged at: 2024-01-29T19:05:57Z)
+- [#51](https://github.com/daytonaio/enterprise-docs/pull/51): configuration/teams: rm dangling sentence (merged at: 2024-01-30T08:49:12Z)
+- [#45](https://github.com/daytonaio/enterprise-docs/pull/45): docs: templates update v2 (merged at: 2024-01-30T10:31:56Z)
+- [#56](https://github.com/daytonaio/enterprise-docs/pull/56): docs: templates update v2 (#45) (merged at: 2024-01-30T10:32:45Z)
+- [#58](https://github.com/daytonaio/enterprise-docs/pull/58): fix: title case (merged at: 2024-01-31T13:50:03Z)
+- [#59](https://github.com/daytonaio/enterprise-docs/pull/59): fix: reverted back p color (merged at: 2024-01-31T14:00:52Z)
+
+## 2023-12
+
+
+### Enterprise Merged Pull Requests
+
+- [#2](https://github.com/daytonaio/enterprise-docs/pull/2): CLI addition (merged at: 2023-12-10T21:30:28Z)
+- [#3](https://github.com/daytonaio/enterprise-docs/pull/3): docs: vs-code-extension (merged at: 2023-12-10T21:38:33Z)
+- [#4](https://github.com/daytonaio/enterprise-docs/pull/4): single node, fixed cli (merged at: 2023-12-10T22:36:19Z)
+- [#5](https://github.com/daytonaio/enterprise-docs/pull/5): clarified contrib md (merged at: 2023-12-10T22:46:56Z)
+- [#6](https://github.com/daytonaio/enterprise-docs/pull/6): removed openapi (merged at: 2023-12-11T09:40:52Z)
+- [#7](https://github.com/daytonaio/enterprise-docs/pull/7): resolved ssh issue (merged at: 2023-12-13T10:57:16Z)
+- [#8](https://github.com/daytonaio/enterprise-docs/pull/8): docs: refactor structure in vs code and contribution guideline (merged at: 2023-12-14T15:10:23Z)
+- [#9](https://github.com/daytonaio/enterprise-docs/pull/9): docs: vscode, jetbrains, contribution guideline, styling, component, miscellaneous (merged at: 2023-12-19T13:47:18Z)
+- [#10](https://github.com/daytonaio/enterprise-docs/pull/10): Update index.mdx (merged at: 2023-12-20T11:49:10Z)
+- [#11](https://github.com/daytonaio/enterprise-docs/pull/11): Docs updates 1 (merged at: 2023-12-22T14:18:44Z)
