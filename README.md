@@ -18,6 +18,11 @@
 - [#203](https://github.com/daytonaio/docs/pull/203): chore(deps): Bump nanoid from 3.3.7 to 3.3.8 (merged at: 2025-01-14T07:51:57Z)
 - [#235](https://github.com/daytonaio/docs/pull/235): chore(deps): Bump vite from 5.4.11 to 5.4.12 (merged at: 2025-01-24T09:03:58Z)
 - [#207](https://github.com/daytonaio/docs/pull/207): docs: refactor workspaces, projects, and targets (merged at: 2025-01-24T09:51:40Z)
+- [#237](https://github.com/daytonaio/docs/pull/237): docs: fix sdk index redirect (merged at: 2025-01-24T15:22:37Z)
+
+### OSS Open Pull Requests
+
+- [#238](https://github.com/daytonaio/docs/pull/238): docs: fix sdk index (created at: 2025-01-24T21:56:16Z)
 
 ### Enterprise Open Pull Requests
 
