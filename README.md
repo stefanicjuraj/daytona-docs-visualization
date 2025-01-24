@@ -16,6 +16,12 @@
 - [#205](https://github.com/daytonaio/docs/pull/205): docs: add workspace toolbox (merged at: 2025-01-14T07:44:16Z)
 - [#227](https://github.com/daytonaio/docs/pull/227): docs: refactor sdk code snippets & content (merged at: 2025-01-14T07:47:26Z)
 - [#203](https://github.com/daytonaio/docs/pull/203): chore(deps): Bump nanoid from 3.3.7 to 3.3.8 (merged at: 2025-01-14T07:51:57Z)
+- [#235](https://github.com/daytonaio/docs/pull/235): chore(deps): Bump vite from 5.4.11 to 5.4.12 (merged at: 2025-01-24T09:03:58Z)
+- [#207](https://github.com/daytonaio/docs/pull/207): docs: refactor workspaces, projects, and targets (merged at: 2025-01-24T09:51:40Z)
+
+### Enterprise Open Pull Requests
+
+- [#206](https://github.com/daytonaio/enterprise-docs/pull/206): chore(deps): bump vite from 5.1.8 to 5.4.12 (created at: 2025-01-21T23:29:47Z)
 
 ## 2024-12
 
@@ -25,10 +31,6 @@
 - [#209](https://github.com/daytonaio/docs/pull/209): docs: modify installation section side menu (merged at: 2024-12-19T09:42:35Z)
 - [#210](https://github.com/daytonaio/docs/pull/210): feat: add search website index (merged at: 2024-12-19T09:42:50Z)
 - [#212](https://github.com/daytonaio/docs/pull/212): chore(deps): Bump astro from 4.16.1 to 4.16.18 (merged at: 2024-12-19T16:11:22Z)
-
-### OSS Open Pull Requests
-
-- [#207](https://github.com/daytonaio/docs/pull/207): docs: refactor workspaces, projects, and targets (created at: 2024-12-17T00:25:33Z)
 
 ### Enterprise Merged Pull Requests
 
