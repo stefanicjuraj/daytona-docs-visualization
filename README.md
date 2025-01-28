@@ -19,10 +19,11 @@
 - [#235](https://github.com/daytonaio/docs/pull/235): chore(deps): Bump vite from 5.4.11 to 5.4.12 (merged at: 2025-01-24T09:03:58Z)
 - [#207](https://github.com/daytonaio/docs/pull/207): docs: refactor workspaces, projects, and targets (merged at: 2025-01-24T09:51:40Z)
 - [#237](https://github.com/daytonaio/docs/pull/237): docs: fix sdk index redirect (merged at: 2025-01-24T15:22:37Z)
-
-### OSS Open Pull Requests
-
-- [#238](https://github.com/daytonaio/docs/pull/238): docs: fix sdk index (created at: 2025-01-24T21:56:16Z)
+- [#241](https://github.com/daytonaio/docs/pull/241): docs: update hyperlinks and spacings (merged at: 2025-01-27T08:09:23Z)
+- [#240](https://github.com/daytonaio/docs/pull/240): docs: update index items (merged at: 2025-01-27T08:09:43Z)
+- [#239](https://github.com/daytonaio/docs/pull/239): style: update docker icon (merged at: 2025-01-27T08:10:02Z)
+- [#238](https://github.com/daytonaio/docs/pull/238): docs: fix sdk index (merged at: 2025-01-27T08:10:25Z)
+- [#242](https://github.com/daytonaio/docs/pull/242): docs: update getting started section (merged at: 2025-01-28T07:56:18Z)
 
 ### Enterprise Open Pull Requests
 
